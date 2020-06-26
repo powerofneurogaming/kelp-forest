@@ -4,13 +4,13 @@ using System.Collections;
 public class SharkMovement : MonoBehaviour {
     public float raycastLength;
 
-    public float goombaSpeed;
+    public float goonSpeed;
 
     public bool hitObject = false;
 
     void Update()
     {
-        transform.Translate(Vector3.right * goombaSpeed * Time.deltaTime);
+        transform.Translate(Vector3.right * goonSpeed * Time.deltaTime);
 
         Vector3 right = transform.TransformDirection(Vector3.right);
 
