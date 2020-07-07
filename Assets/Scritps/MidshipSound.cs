@@ -10,13 +10,13 @@ public class MidshipSound : MonoBehaviour
   }
   
   void Update () {
-         if (Input.GetKeyDown(KeyCode.X)) {
+         if (Input.GetKeyDown(KeyCode.Space)) {
              if(!someSound.isPlaying) {
                  someSound.Play();
              }
          }
       
-         if (Input.GetKeyUp(KeyCode.X)) {
+         if (Input.GetKeyUp(KeyCode.Space)) {
              someSound.Stop();
          }
      }
