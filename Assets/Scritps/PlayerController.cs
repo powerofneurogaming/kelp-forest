@@ -11,7 +11,7 @@ public class PlayerController : MonoBehaviour {
         rb2d = GetComponent<Rigidbody2D> ();
     }
 
-    void FixedUpdate()
+    void Update()
     {
         float moveHorizontal = Input.GetAxis ("Horizontal");
 
@@ -20,5 +20,13 @@ public class PlayerController : MonoBehaviour {
         Vector2 movement = new Vector2 (moveHorizontal, moveVertical);
 
         rb2d.AddForce (movement * speed);
+    }
+
+    private void OnTriggerEnter2D(Collider2D other) 
+    {
+        if(other.gameObject.CompareTag("Coin")) 
+        {
+            Destroy(other.gameObject);
+        }
     }
 }
