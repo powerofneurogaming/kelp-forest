@@ -13,69 +13,249 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-07-14T10:25:58.148-07:00
-  initializedAtString: 2020-07-14T10:23:56.509-07:00
+  lastUpdatedAtString: 2020-07-17T08:38:45.049-07:00
+  initializedAtString: 2020-07-17T08:38:44.698-07:00
   entries:
+  - path: Assets/Kelp Forest.unity
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Assets/Kelp Forest.unity
+    projectPath: Assets/Kelp Forest.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Objects/crab.png
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Assets/Objects/crab.png
+    projectPath: Assets/Objects/crab.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Objects/crab.png.meta
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Assets/Objects/crab.png.meta
+    projectPath: Assets/Objects/crab.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Objects/smallfish.png
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Assets/Objects/smallfish.png
+    projectPath: Assets/Objects/smallfish.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Objects/smallfish.png.meta
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Assets/Objects/smallfish.png.meta
+    projectPath: Assets/Objects/smallfish.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Objects/smallfish2.png
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Assets/Objects/smallfish2.png
+    projectPath: Assets/Objects/smallfish2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Objects/smallfish2.png.meta
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Assets/Objects/smallfish2.png.meta
+    projectPath: Assets/Objects/smallfish2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Objects/smallfish3.png
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Assets/Objects/smallfish3.png
+    projectPath: Assets/Objects/smallfish3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Objects/smallfish3.png.meta
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Assets/Objects/smallfish3.png.meta
+    projectPath: Assets/Objects/smallfish3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scritps/Coin.cs
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Assets/Scritps/Coin.cs
+    projectPath: Assets/Scritps/Coin.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Scritps/Coin.cs.meta
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Assets/Scritps/Coin.cs.meta
+    projectPath: Assets/Scritps/Coin.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Scritps/CrabMovement.cs
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Assets/Scritps/CrabMovement.cs
+    projectPath: Assets/Scritps/CrabMovement.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scritps/CrabMovement.cs.meta
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Assets/Scritps/CrabMovement.cs.meta
+    projectPath: Assets/Scritps/CrabMovement.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/ArtifactDB
     fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/ArtifactDB
     projectPath: Library/ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/Artifacts/71/711b6e9c796553ba842f3ac44fef5623
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/71/711b6e9c796553ba842f3ac44fef5623
-    projectPath: Library/Artifacts/71/711b6e9c796553ba842f3ac44fef5623
+  - path: Library/Artifacts/01/01e9c1895bd126006630263f067c5abd
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/01/01e9c1895bd126006630263f067c5abd
+    projectPath: Library/Artifacts/01/01e9c1895bd126006630263f067c5abd
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/74/748739757b10c3dcbf0cc9cc24cf410d
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/74/748739757b10c3dcbf0cc9cc24cf410d
-    projectPath: Library/Artifacts/74/748739757b10c3dcbf0cc9cc24cf410d
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/0c/0cec58a3b8dd21e176fb3bb2460d45c2
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/0c/0cec58a3b8dd21e176fb3bb2460d45c2
+    projectPath: Library/Artifacts/0c/0cec58a3b8dd21e176fb3bb2460d45c2
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/77/771c37240491d3539bfefcb7059a3b6d
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/77/771c37240491d3539bfefcb7059a3b6d
-    projectPath: Library/Artifacts/77/771c37240491d3539bfefcb7059a3b6d
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/0d/0d2e92131704b1a613f10b6f79db9469
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/0d/0d2e92131704b1a613f10b6f79db9469
+    projectPath: Library/Artifacts/0d/0d2e92131704b1a613f10b6f79db9469
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/7e/7e10ccc1c0c450690ee82bcf529d39da
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/7e/7e10ccc1c0c450690ee82bcf529d39da
-    projectPath: Library/Artifacts/7e/7e10ccc1c0c450690ee82bcf529d39da
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/11/11c5e652f2896d4fdfc33222adc239be
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/11/11c5e652f2896d4fdfc33222adc239be
+    projectPath: Library/Artifacts/11/11c5e652f2896d4fdfc33222adc239be
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/82/82db45639270fd3a26fd60fa39c2f699
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/82/82db45639270fd3a26fd60fa39c2f699
-    projectPath: Library/Artifacts/82/82db45639270fd3a26fd60fa39c2f699
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/1a/1a483e8feb13b29cfcd5b7d92ba8d380
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/1a/1a483e8feb13b29cfcd5b7d92ba8d380
+    projectPath: Library/Artifacts/1a/1a483e8feb13b29cfcd5b7d92ba8d380
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/9f/9fdafafc95662f7ac83847ace120e489
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/9f/9fdafafc95662f7ac83847ace120e489
-    projectPath: Library/Artifacts/9f/9fdafafc95662f7ac83847ace120e489
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/31/313aa3e0dc8bc75df60b5d946144e820
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/31/313aa3e0dc8bc75df60b5d946144e820
+    projectPath: Library/Artifacts/31/313aa3e0dc8bc75df60b5d946144e820
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/a2/a225cb32f8d0bc254310da9995155eab
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/a2/a225cb32f8d0bc254310da9995155eab
-    projectPath: Library/Artifacts/a2/a225cb32f8d0bc254310da9995155eab
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/40/404819fa968ead10e569e4ae589477e3
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/40/404819fa968ead10e569e4ae589477e3
+    projectPath: Library/Artifacts/40/404819fa968ead10e569e4ae589477e3
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/cf/cf89844f7a1c70d42db481cc2a1ff694
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/cf/cf89844f7a1c70d42db481cc2a1ff694
-    projectPath: Library/Artifacts/cf/cf89844f7a1c70d42db481cc2a1ff694
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/45/455bf45bf2c4a783b02526499349bb6d
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/45/455bf45bf2c4a783b02526499349bb6d
+    projectPath: Library/Artifacts/45/455bf45bf2c4a783b02526499349bb6d
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/e6/e6bc8ddc1167829e210174acd1137aa3
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/e6/e6bc8ddc1167829e210174acd1137aa3
-    projectPath: Library/Artifacts/e6/e6bc8ddc1167829e210174acd1137aa3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/49/49659c5e815bb0c13365d57cfc66cf2f
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/49/49659c5e815bb0c13365d57cfc66cf2f
+    projectPath: Library/Artifacts/49/49659c5e815bb0c13365d57cfc66cf2f
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/4a/4ac334d5d99a3376e76e0b66c88f0507
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/4a/4ac334d5d99a3376e76e0b66c88f0507
+    projectPath: Library/Artifacts/4a/4ac334d5d99a3376e76e0b66c88f0507
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/55/551fb5b75301b613303345a4e885d804
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/55/551fb5b75301b613303345a4e885d804
+    projectPath: Library/Artifacts/55/551fb5b75301b613303345a4e885d804
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5d/5de8d00175bea753720ce2ab3337c46b
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/5d/5de8d00175bea753720ce2ab3337c46b
+    projectPath: Library/Artifacts/5d/5de8d00175bea753720ce2ab3337c46b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5e/5e05206e00188b4757850fdca87804c3
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/5e/5e05206e00188b4757850fdca87804c3
+    projectPath: Library/Artifacts/5e/5e05206e00188b4757850fdca87804c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/60/601429fb850bf06a79aa927c2c3d7f9d
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/60/601429fb850bf06a79aa927c2c3d7f9d
+    projectPath: Library/Artifacts/60/601429fb850bf06a79aa927c2c3d7f9d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/74/746b78c24cba48fc6dddb0e137aee3d2
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/74/746b78c24cba48fc6dddb0e137aee3d2
+    projectPath: Library/Artifacts/74/746b78c24cba48fc6dddb0e137aee3d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/92/92d774608565e03cba658e6b02968636
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/92/92d774608565e03cba658e6b02968636
+    projectPath: Library/Artifacts/92/92d774608565e03cba658e6b02968636
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a5/a53508742d6489a9074757033e6e5d6f
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/a5/a53508742d6489a9074757033e6e5d6f
+    projectPath: Library/Artifacts/a5/a53508742d6489a9074757033e6e5d6f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a6/a659acbd1f82c195f737075dad6749de
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/a6/a659acbd1f82c195f737075dad6749de
+    projectPath: Library/Artifacts/a6/a659acbd1f82c195f737075dad6749de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/be/becd7bf8d95a61374a4934d90dbeabd1
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/be/becd7bf8d95a61374a4934d90dbeabd1
+    projectPath: Library/Artifacts/be/becd7bf8d95a61374a4934d90dbeabd1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c5/c57b591257b1eeaa22a5fc2cfe05478c
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/c5/c57b591257b1eeaa22a5fc2cfe05478c
+    projectPath: Library/Artifacts/c5/c57b591257b1eeaa22a5fc2cfe05478c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e7/e77aa8809d0bb80dcc6f76232612e908
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/e7/e77aa8809d0bb80dcc6f76232612e908
+    projectPath: Library/Artifacts/e7/e77aa8809d0bb80dcc6f76232612e908
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ef/ef00434950f37382f48e17c10c709c12
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/ef/ef00434950f37382f48e17c10c709c12
+    projectPath: Library/Artifacts/ef/ef00434950f37382f48e17c10c709c12
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f3/f30be69b7d5d00b6ba19003075afcaed
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/f3/f30be69b7d5d00b6ba19003075afcaed
+    projectPath: Library/Artifacts/f3/f30be69b7d5d00b6ba19003075afcaed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f3/f3b8d0252b9e02414172443f4bcf5721
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/f3/f3b8d0252b9e02414172443f4bcf5721
+    projectPath: Library/Artifacts/f3/f3b8d0252b9e02414172443f4bcf5721
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/fe/fe4c22587b8ae4efca1b589090f1b4c2
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/fe/fe4c22587b8ae4efca1b589090f1b4c2
+    projectPath: Library/Artifacts/fe/fe4c22587b8ae4efca1b589090f1b4c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ff/ff0ed633dc2d1a19a728acef593aeb4c
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/ff/ff0ed633dc2d1a19a728acef593aeb4c
+    projectPath: Library/Artifacts/ff/ff0ed633dc2d1a19a728acef593aeb4c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/CurrentLayout-default.dwlt
     fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/CurrentLayout-default.dwlt
     projectPath: Library/CurrentLayout-default.dwlt
@@ -85,18 +265,6 @@ MonoBehaviour:
   - path: Library/EditorInstance.json
     fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/EditorInstance.json
     projectPath: Library/EditorInstance.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/expandedItems
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/expandedItems
-    projectPath: Library/expandedItems
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/gfu/cache/branches.yaml
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/gfu/cache/branches.yaml
-    projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -124,6 +292,24 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/InspectorExpandedItems.asset
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/SourceAssetDB
     fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/SourceAssetDB
     projectPath: Library/SourceAssetDB
@@ -136,63 +322,57 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp/UnityTempFile-1d29a308b776a45f3a34374ee541db58
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Temp/UnityTempFile-1d29a308b776a45f3a34374ee541db58
-    projectPath: Temp/UnityTempFile-1d29a308b776a45f3a34374ee541db58
+  - path: Library/StateCache/SceneView/d69a67-mainStage.json
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/StateCache/SceneView/d69a67-mainStage.json
+    projectPath: Library/StateCache/SceneView/d69a67-mainStage.json
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-27af5454e7601435386cac8f8d9e3048
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Temp/UnityTempFile-27af5454e7601435386cac8f8d9e3048
-    projectPath: Temp/UnityTempFile-27af5454e7601435386cac8f8d9e3048
+    workTreeStatus: 3
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-6a5b0f645f9ad405189240cecdaadaa7
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Temp/UnityTempFile-6a5b0f645f9ad405189240cecdaadaa7
-    projectPath: Temp/UnityTempFile-6a5b0f645f9ad405189240cecdaadaa7
+    workTreeStatus: 3
+  - path: Temp/UnityTempFile-13bb4aa6ef67a4e258729439a87d3989
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Temp/UnityTempFile-13bb4aa6ef67a4e258729439a87d3989
+    projectPath: Temp/UnityTempFile-13bb4aa6ef67a4e258729439a87d3989
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-8c7b1abcf00b94000a866b8f8b5362ee
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Temp/UnityTempFile-8c7b1abcf00b94000a866b8f8b5362ee
-    projectPath: Temp/UnityTempFile-8c7b1abcf00b94000a866b8f8b5362ee
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-278491d47611d42c0a5a65583e30e684
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Temp/UnityTempFile-278491d47611d42c0a5a65583e30e684
+    projectPath: Temp/UnityTempFile-278491d47611d42c0a5a65583e30e684
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-b1c143301d5de4827a3ef11984ef31d4
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Temp/UnityTempFile-b1c143301d5de4827a3ef11984ef31d4
-    projectPath: Temp/UnityTempFile-b1c143301d5de4827a3ef11984ef31d4
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6da3128c15a91491ab8853d6d4f8bf24
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Temp/UnityTempFile-6da3128c15a91491ab8853d6d4f8bf24
+    projectPath: Temp/UnityTempFile-6da3128c15a91491ab8853d6d4f8bf24
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-b94b6fc4caa54416b937fb4072901445
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Temp/UnityTempFile-b94b6fc4caa54416b937fb4072901445
-    projectPath: Temp/UnityTempFile-b94b6fc4caa54416b937fb4072901445
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-7fad1e8aaab9d465d920089a820f8a7c
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Temp/UnityTempFile-7fad1e8aaab9d465d920089a820f8a7c
+    projectPath: Temp/UnityTempFile-7fad1e8aaab9d465d920089a820f8a7c
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-bbace5f7d962b4211b08143a89ab80a0
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Temp/UnityTempFile-bbace5f7d962b4211b08143a89ab80a0
-    projectPath: Temp/UnityTempFile-bbace5f7d962b4211b08143a89ab80a0
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9f7173a4c131e46a2a3bea711f79d5a8
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Temp/UnityTempFile-9f7173a4c131e46a2a3bea711f79d5a8
+    projectPath: Temp/UnityTempFile-9f7173a4c131e46a2a3bea711f79d5a8
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-db327bd29ef77472da0514c42247293f
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Temp/UnityTempFile-db327bd29ef77472da0514c42247293f
-    projectPath: Temp/UnityTempFile-db327bd29ef77472da0514c42247293f
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-a926254c6ff2f4a5b9c0779b24a0d297
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Temp/UnityTempFile-a926254c6ff2f4a5b9c0779b24a0d297
+    projectPath: Temp/UnityTempFile-a926254c6ff2f4a5b9c0779b24a0d297
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-de61e4da477164546be203ca55b3f198
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Temp/UnityTempFile-de61e4da477164546be203ca55b3f198
-    projectPath: Temp/UnityTempFile-de61e4da477164546be203ca55b3f198
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-c0751d8853ad0444a880aa3489a6ebbe
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Temp/UnityTempFile-c0751d8853ad0444a880aa3489a6ebbe
+    projectPath: Temp/UnityTempFile-c0751d8853ad0444a880aa3489a6ebbe
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/UnityTempFile-ebb6250d96ee84d9cbe7402d98a99ead
-    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Temp/UnityTempFile-ebb6250d96ee84d9cbe7402d98a99ead
-    projectPath: Temp/UnityTempFile-ebb6250d96ee84d9cbe7402d98a99ead
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
