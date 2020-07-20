@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-07-14T10:25:25.910-07:00
-  initializedAtString: 2020-07-14T10:25:25.896-07:00
+  lastUpdatedAtString: 2020-07-20T08:26:20.762-07:00
+  initializedAtString: 2020-07-20T08:24:31.141-07:00
   localBranches:
-  - name: KananStart
+  - name: JoshBranch
     tracking: 
   - name: master
     tracking: origin/master
@@ -33,10 +33,10 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - KananStart
+    - JoshBranch
     - master
     values:
-    - name: KananStart
+    - name: JoshBranch
       remote:
         name: 
         url: 
