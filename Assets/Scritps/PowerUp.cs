@@ -8,7 +8,7 @@ public class PowerUp : MonoBehaviour {
 
     public GameObject pickupEffect;
 
-    void OnTriggerEnter(Collider other)
+    void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
         {
@@ -16,9 +16,9 @@ public class PowerUp : MonoBehaviour {
         }
     }
 
-    void Pickup(Collider player)
+    void Pickup(Collider2D player)
     {
-        Instantiate(pickupEffect, transform.position, transform.rotation);
+        // Instantiate(pickupEffect, transform.position, transform.rotation);
 
         player.transform.localScale *= multiplier;
 
