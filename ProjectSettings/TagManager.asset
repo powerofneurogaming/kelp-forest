@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Coin
+  - Enemy
+  - Powerup
+  - Coin Detector
   layers:
   - Default
   - TransparentFX

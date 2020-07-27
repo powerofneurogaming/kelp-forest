@@ -1,5 +1,6 @@
-﻿using UnityEngine;
-using System.Collections;
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
 public class PlayerController : MonoBehaviour {
 
@@ -18,8 +19,23 @@ public class PlayerController : MonoBehaviour {
         float moveVertical = Input.GetAxis ("Vertical");
 
         Vector2 movement = new Vector2 (moveHorizontal, moveVertical);
+        
+        Vector2 temp = gameObject.transform.localScale;
+
+        if ((moveHorizontal < 0) && (gameObject.transform.localScale.x > 0))
+        {
+            temp.x *= -1;
+            transform.localScale = temp;
+        }
+
+        if ((moveHorizontal > 0) && (gameObject.transform.localScale.x < 0))
+        {
+            temp.x *= -1;
+            transform.localScale = temp;
+        }
 
         rb2d.AddForce (movement * speed);
+        
     }
 
     private void OnTriggerEnter2D(Collider2D other) 
