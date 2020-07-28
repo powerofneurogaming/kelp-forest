@@ -6,7 +6,7 @@ public class PowerUp : MonoBehaviour {
 
     public float multiplier = 1.4f;
 
-    public GameObject pickupEffect;
+    // public GameObject pickupEffect;
 
     void OnTriggerEnter2D(Collider2D other)
     {
