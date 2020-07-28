@@ -13,15 +13,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-07-23T09:44:04.107-07:00
-  initializedAtString: 2020-07-23T09:44:04.094-07:00
+  lastUpdatedAtString: 2020-07-28T09:25:19.397-07:00
+  initializedAtString: 2020-07-28T09:25:19.384-07:00
   localBranches:
+  - name: Branch-1
+    tracking: origin/Branch-1
   - name: JoshBranch
     tracking: origin/JoshBranch
   - name: master
     tracking: origin/master
   remoteBranches:
-  - name: origin/JoshBranch
+  - name: origin/Branch-1
+    tracking: '[None]'
+  - name: origin/UI
+    tracking: '[None]'
+  - name: origin/artadded
     tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
@@ -35,9 +41,15 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - Branch-1
     - JoshBranch
     - master
     values:
+    - name: Branch-1
+      remote:
+        name: origin
+        url: git@github.com:powerofneurogaming/kelp-forest.git
+      trackingBranch: Branch-1
     - name: JoshBranch
       remote:
         name: origin
@@ -53,11 +65,23 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
-      - JoshBranch
+      - Branch-1
+      - UI
+      - artadded
       - master
     subKeyValues:
     - Values:
-      - name: JoshBranch
+      - name: Branch-1
+        remote:
+          name: origin
+          url: git@github.com:powerofneurogaming/kelp-forest.git
+        trackingBranch: 
+      - name: UI
+        remote:
+          name: origin
+          url: git@github.com:powerofneurogaming/kelp-forest.git
+        trackingBranch: 
+      - name: artadded
         remote:
           name: origin
           url: git@github.com:powerofneurogaming/kelp-forest.git
