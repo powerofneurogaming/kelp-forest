@@ -13,9 +13,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-07-28T10:19:09.225-07:00
-  initializedAtString: 2020-07-28T09:08:47.766-07:00
+  lastUpdatedAtString: 2020-07-29T15:19:01.731-07:00
+  initializedAtString: 2020-07-29T15:18:30.015-07:00
   entries:
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gitstatusentries.yaml
     fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/gfu/cache/gitstatusentries.yaml
     projectPath: Library/gfu/cache/gitstatusentries.yaml
