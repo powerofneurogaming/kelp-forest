@@ -328,7 +328,8 @@ GameObject:
   - component: {fileID: 10814187}
   - component: {fileID: 10814186}
   - component: {fileID: 10814185}
-  m_Layer: 0
+  - component: {fileID: 10814188}
+  m_Layer: 9
   m_Name: jellyfish3 (8)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -390,6 +391,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &10814187
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -440,6 +442,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &10814188
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 10814183}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &13690441
 GameObject:
   m_ObjectHideFlags: 0
@@ -1520,6 +1543,7 @@ GameObject:
   - component: {fileID: 85721771}
   - component: {fileID: 85721770}
   - component: {fileID: 85721772}
+  - component: {fileID: 85721773}
   m_Layer: 0
   m_Name: gerebaldi
   m_TagString: Enemy
@@ -1556,6 +1580,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 2
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &85721771
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1632,6 +1657,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.3333334, y: 1.0933334}
   m_EdgeRadius: 0
+--- !u!50 &85721773
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 85721768}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &92753355
 GameObject:
   m_ObjectHideFlags: 0
@@ -3230,6 +3276,7 @@ GameObject:
   - component: {fileID: 161221605}
   - component: {fileID: 161221604}
   - component: {fileID: 161221603}
+  - component: {fileID: 161221606}
   m_Layer: 0
   m_Name: gerebaldi (5)
   m_TagString: Enemy
@@ -3292,6 +3339,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 2
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &161221605
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3342,6 +3390,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &161221606
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 161221601}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &163118461
 GameObject:
   m_ObjectHideFlags: 0
@@ -4150,7 +4219,8 @@ GameObject:
   - component: {fileID: 185334801}
   - component: {fileID: 185334800}
   - component: {fileID: 185334799}
-  m_Layer: 0
+  - component: {fileID: 185334802}
+  m_Layer: 9
   m_Name: jellyfish3 (3)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -4212,6 +4282,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &185334801
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4262,6 +4333,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &185334802
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 185334797}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &185656634
 GameObject:
   m_ObjectHideFlags: 0
@@ -5072,7 +5164,8 @@ GameObject:
   - component: {fileID: 216444508}
   - component: {fileID: 216444507}
   - component: {fileID: 216444506}
-  m_Layer: 0
+  - component: {fileID: 216444509}
+  m_Layer: 9
   m_Name: jellyfish3 (2)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -5134,6 +5227,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &216444508
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5184,6 +5278,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &216444509
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 216444504}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &217799468
 GameObject:
   m_ObjectHideFlags: 0
@@ -6733,7 +6848,8 @@ GameObject:
   - component: {fileID: 314106416}
   - component: {fileID: 314106415}
   - component: {fileID: 314106414}
-  m_Layer: 0
+  - component: {fileID: 314106417}
+  m_Layer: 9
   m_Name: jellyfish3
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -6795,6 +6911,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &314106416
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6845,6 +6962,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &314106417
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 314106412}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &319461306
 GameObject:
   m_ObjectHideFlags: 0
@@ -6938,6 +7076,7 @@ GameObject:
   - component: {fileID: 331136829}
   - component: {fileID: 331136828}
   - component: {fileID: 331136830}
+  - component: {fileID: 331136831}
   m_Layer: 0
   m_Name: gerebaldi (1)
   m_TagString: Enemy
@@ -6974,6 +7113,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 2
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &331136829
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7050,6 +7190,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.3333334, y: 1.0933334}
   m_EdgeRadius: 0
+--- !u!50 &331136831
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 331136826}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &331325090
 GameObject:
   m_ObjectHideFlags: 0
@@ -8430,7 +8591,8 @@ GameObject:
   - component: {fileID: 385088983}
   - component: {fileID: 385088982}
   - component: {fileID: 385088981}
-  m_Layer: 0
+  - component: {fileID: 385088984}
+  m_Layer: 9
   m_Name: jellyfish3 (4)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -8492,6 +8654,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &385088983
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8542,6 +8705,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &385088984
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 385088979}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &386710924
 GameObject:
   m_ObjectHideFlags: 0
@@ -11018,6 +11202,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 0.03
   bc2d: {fileID: 0}
+  JellyfishParent: {fileID: 122191882}
+  Midshipman: {fileID: 21300000, guid: d1468f6f2c6f5480297eab502b83c6c3, type: 3}
+  Biolum: {fileID: 21300000, guid: 4440caffde2d241a0935c8d65599ec0a, type: 3}
 --- !u!212 &510101989
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11076,7 +11263,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 510101987}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -21.9, y: -0.4, z: 1.7277784}
+  m_LocalPosition: {x: -20.39, y: -1.79, z: 1.7277784}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 823489615}
@@ -11728,7 +11915,8 @@ GameObject:
   - component: {fileID: 550568060}
   - component: {fileID: 550568059}
   - component: {fileID: 550568058}
-  m_Layer: 0
+  - component: {fileID: 550568061}
+  m_Layer: 9
   m_Name: jellyfish3 (1)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -11790,6 +11978,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &550568060
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11840,6 +12029,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &550568061
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 550568056}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &552596330
 GameObject:
   m_ObjectHideFlags: 0
@@ -12812,6 +13022,7 @@ GameObject:
   - component: {fileID: 576351940}
   - component: {fileID: 576351939}
   - component: {fileID: 576351941}
+  - component: {fileID: 576351942}
   m_Layer: 0
   m_Name: gerebaldi (1)
   m_TagString: Enemy
@@ -12848,6 +13059,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 2
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &576351940
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -12924,6 +13136,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.3333334, y: 1.0933334}
   m_EdgeRadius: 0
+--- !u!50 &576351942
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 576351937}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &576532735
 GameObject:
   m_ObjectHideFlags: 0
@@ -15071,7 +15304,7 @@ MonoBehaviour:
   someSound: {fileID: 690737944}
   projectile: {fileID: 430514888475278181, guid: 9fd2ba6b6e5b34ca88747ba19ddaedd1,
     type: 3}
-  shootForce: 500
+  shootForce: 100
 --- !u!82 &690737944
 AudioSource:
   m_ObjectHideFlags: 0
@@ -15086,7 +15319,7 @@ AudioSource:
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
-  Loop: 1
+  Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -15978,6 +16211,7 @@ GameObject:
   - component: {fileID: 728039598}
   - component: {fileID: 728039597}
   - component: {fileID: 728039596}
+  - component: {fileID: 728039599}
   m_Layer: 0
   m_Name: gerebaldi (3)
   m_TagString: Enemy
@@ -16040,6 +16274,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 2
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &728039598
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16090,6 +16325,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &728039599
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 728039594}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &730243288
 GameObject:
   m_ObjectHideFlags: 0
@@ -16444,6 +16700,7 @@ GameObject:
   - component: {fileID: 736254682}
   - component: {fileID: 736254684}
   - component: {fileID: 736254685}
+  - component: {fileID: 736254686}
   m_Layer: 0
   m_Name: gerebaldi
   m_TagString: Enemy
@@ -16530,6 +16787,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 2
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!61 &736254685
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16556,6 +16814,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.3333334, y: 1.0933334}
   m_EdgeRadius: 0
+--- !u!50 &736254686
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 736254681}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &736760146
 GameObject:
   m_ObjectHideFlags: 0
@@ -24045,6 +24324,7 @@ MonoBehaviour:
   raycastLength: 10
   goonSpeed: 1
   hitObject: 1
+  rigid: {fileID: 0}
 --- !u!61 &847750787
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -28108,7 +28388,8 @@ GameObject:
   - component: {fileID: 1053382576}
   - component: {fileID: 1053382575}
   - component: {fileID: 1053382574}
-  m_Layer: 0
+  - component: {fileID: 1053382577}
+  m_Layer: 9
   m_Name: jellyfish3 (7)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -28170,6 +28451,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1053382576
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -28220,6 +28502,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1053382577
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1053382572}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1070455682
 GameObject:
   m_ObjectHideFlags: 0
@@ -28232,7 +28535,8 @@ GameObject:
   - component: {fileID: 1070455686}
   - component: {fileID: 1070455685}
   - component: {fileID: 1070455684}
-  m_Layer: 0
+  - component: {fileID: 1070455687}
+  m_Layer: 9
   m_Name: jellyfish3 (6)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -28294,6 +28598,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1070455686
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -28344,6 +28649,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1070455687
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1070455682}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1070852714
 GameObject:
   m_ObjectHideFlags: 0
@@ -28470,6 +28796,7 @@ GameObject:
   - component: {fileID: 1083326125}
   - component: {fileID: 1083326124}
   - component: {fileID: 1083326123}
+  - component: {fileID: 1083326126}
   m_Layer: 0
   m_Name: gerebaldi (8)
   m_TagString: Enemy
@@ -28532,6 +28859,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 2
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1083326125
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -28582,6 +28910,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1083326126
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1083326121}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1084463070
 GameObject:
   m_ObjectHideFlags: 0
@@ -28822,7 +29171,8 @@ GameObject:
   - component: {fileID: 1101850846}
   - component: {fileID: 1101850845}
   - component: {fileID: 1101850844}
-  m_Layer: 0
+  - component: {fileID: 1101850847}
+  m_Layer: 9
   m_Name: jellyfish3 (9)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -28884,6 +29234,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1101850846
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -28934,6 +29285,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1101850847
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1101850842}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1105289439
 GameObject:
   m_ObjectHideFlags: 0
@@ -28946,7 +29318,8 @@ GameObject:
   - component: {fileID: 1105289443}
   - component: {fileID: 1105289442}
   - component: {fileID: 1105289441}
-  m_Layer: 0
+  - component: {fileID: 1105289444}
+  m_Layer: 9
   m_Name: jellyfish3 (17)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -29008,6 +29381,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1105289443
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -29058,6 +29432,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1105289444
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1105289439}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1107436786
 GameObject:
   m_ObjectHideFlags: 0
@@ -29526,7 +29921,8 @@ GameObject:
   - component: {fileID: 1135999438}
   - component: {fileID: 1135999437}
   - component: {fileID: 1135999436}
-  m_Layer: 0
+  - component: {fileID: 1135999439}
+  m_Layer: 9
   m_Name: jellyfish3 (5)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -29588,6 +29984,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1135999438
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -29638,6 +30035,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1135999439
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1135999434}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1142090277
 GameObject:
   m_ObjectHideFlags: 0
@@ -31098,7 +31516,8 @@ GameObject:
   - component: {fileID: 1199470834}
   - component: {fileID: 1199470833}
   - component: {fileID: 1199470832}
-  m_Layer: 0
+  - component: {fileID: 1199470835}
+  m_Layer: 9
   m_Name: jellyfish3 (13)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -31160,6 +31579,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1199470834
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -31210,6 +31630,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1199470835
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1199470830}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1205322754
 GameObject:
   m_ObjectHideFlags: 0
@@ -32306,6 +32747,7 @@ GameObject:
   - component: {fileID: 1235295237}
   - component: {fileID: 1235295236}
   - component: {fileID: 1235295235}
+  - component: {fileID: 1235295238}
   m_Layer: 0
   m_Name: gerebaldi (7)
   m_TagString: Enemy
@@ -32368,6 +32810,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 2
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1235295237
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -32418,6 +32861,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1235295238
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1235295233}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1238982276
 GameObject:
   m_ObjectHideFlags: 0
@@ -33894,7 +34358,8 @@ GameObject:
   - component: {fileID: 1286606298}
   - component: {fileID: 1286606297}
   - component: {fileID: 1286606296}
-  m_Layer: 0
+  - component: {fileID: 1286606299}
+  m_Layer: 9
   m_Name: jellyfish3 (11)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -33956,6 +34421,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1286606298
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -34006,6 +34472,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1286606299
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1286606294}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1298746449
 GameObject:
   m_ObjectHideFlags: 0
@@ -35548,7 +36035,8 @@ GameObject:
   - component: {fileID: 1390897375}
   - component: {fileID: 1390897374}
   - component: {fileID: 1390897373}
-  m_Layer: 0
+  - component: {fileID: 1390897376}
+  m_Layer: 9
   m_Name: jellyfish3 (7)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -35610,6 +36098,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1390897375
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -35660,6 +36149,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1390897376
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1390897371}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1391335357
 GameObject:
   m_ObjectHideFlags: 0
@@ -35672,6 +36182,7 @@ GameObject:
   - component: {fileID: 1391335361}
   - component: {fileID: 1391335360}
   - component: {fileID: 1391335359}
+  - component: {fileID: 1391335362}
   m_Layer: 0
   m_Name: gerebaldi (6)
   m_TagString: Enemy
@@ -35734,6 +36245,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 2
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1391335361
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -35784,6 +36296,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1391335362
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1391335357}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1392167788
 GameObject:
   m_ObjectHideFlags: 0
@@ -35796,7 +36329,8 @@ GameObject:
   - component: {fileID: 1392167792}
   - component: {fileID: 1392167791}
   - component: {fileID: 1392167790}
-  m_Layer: 0
+  - component: {fileID: 1392167793}
+  m_Layer: 9
   m_Name: jellyfish3 (18)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -35858,6 +36392,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1392167792
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -35908,6 +36443,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1392167793
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1392167788}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1393597792
 GameObject:
   m_ObjectHideFlags: 0
@@ -36490,7 +37046,8 @@ GameObject:
   - component: {fileID: 1411460603}
   - component: {fileID: 1411460602}
   - component: {fileID: 1411460601}
-  m_Layer: 0
+  - component: {fileID: 1411460604}
+  m_Layer: 9
   m_Name: jellyfish3 (3)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -36552,6 +37109,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1411460603
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -36602,6 +37160,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1411460604
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1411460599}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1411767557
 GameObject:
   m_ObjectHideFlags: 0
@@ -37688,7 +38267,8 @@ GameObject:
   - component: {fileID: 1462596514}
   - component: {fileID: 1462596513}
   - component: {fileID: 1462596512}
-  m_Layer: 0
+  - component: {fileID: 1462596515}
+  m_Layer: 9
   m_Name: jellyfish3 (6)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -37750,6 +38330,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1462596514
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -37800,6 +38381,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1462596515
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1462596510}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1462876082
 GameObject:
   m_ObjectHideFlags: 0
@@ -38154,7 +38756,8 @@ GameObject:
   - component: {fileID: 1470485714}
   - component: {fileID: 1470485713}
   - component: {fileID: 1470485715}
-  m_Layer: 0
+  - component: {fileID: 1470485716}
+  m_Layer: 9
   m_Name: jellyfish3 (1)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -38190,6 +38793,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1470485714
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -38266,6 +38870,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.9, y: 1.5}
   m_EdgeRadius: 0
+--- !u!50 &1470485716
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1470485711}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1481518301
 GameObject:
   m_ObjectHideFlags: 0
@@ -38734,7 +39359,8 @@ GameObject:
   - component: {fileID: 1514689318}
   - component: {fileID: 1514689317}
   - component: {fileID: 1514689316}
-  m_Layer: 0
+  - component: {fileID: 1514689319}
+  m_Layer: 9
   m_Name: jellyfish3 (16)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -38796,6 +39422,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1514689318
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -38846,6 +39473,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1514689319
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1514689314}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1526462905
 GameObject:
   m_ObjectHideFlags: 0
@@ -39812,7 +40460,8 @@ GameObject:
   - component: {fileID: 1565357335}
   - component: {fileID: 1565357334}
   - component: {fileID: 1565357333}
-  m_Layer: 0
+  - component: {fileID: 1565357336}
+  m_Layer: 9
   m_Name: jellyfish3 (12)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -39874,6 +40523,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1565357335
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -39924,6 +40574,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1565357336
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1565357331}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1566926026
 GameObject:
   m_ObjectHideFlags: 0
@@ -41419,7 +42090,8 @@ GameObject:
   - component: {fileID: 1614902849}
   - component: {fileID: 1614902848}
   - component: {fileID: 1614902847}
-  m_Layer: 0
+  - component: {fileID: 1614902850}
+  m_Layer: 9
   m_Name: jellyfish3 (15)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -41481,6 +42153,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1614902849
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -41531,6 +42204,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1614902850
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1614902845}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1616260138
 GameObject:
   m_ObjectHideFlags: 0
@@ -47074,6 +47768,7 @@ GameObject:
   - component: {fileID: 1749424517}
   - component: {fileID: 1749424516}
   - component: {fileID: 1749424515}
+  - component: {fileID: 1749424518}
   m_Layer: 0
   m_Name: gerebaldi (4)
   m_TagString: Enemy
@@ -47136,6 +47831,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 2
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1749424517
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -47186,6 +47882,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1749424518
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1749424513}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1752009245
 GameObject:
   m_ObjectHideFlags: 0
@@ -49480,7 +50197,8 @@ GameObject:
   - component: {fileID: 1810002439}
   - component: {fileID: 1810002438}
   - component: {fileID: 1810002437}
-  m_Layer: 0
+  - component: {fileID: 1810002440}
+  m_Layer: 9
   m_Name: jellyfish3 (10)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -49542,6 +50260,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1810002439
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -49592,6 +50311,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1810002440
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1810002435}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1812659137
 GameObject:
   m_ObjectHideFlags: 0
@@ -49718,7 +50458,8 @@ GameObject:
   - component: {fileID: 1818457713}
   - component: {fileID: 1818457712}
   - component: {fileID: 1818457711}
-  m_Layer: 0
+  - component: {fileID: 1818457714}
+  m_Layer: 9
   m_Name: jellyfish3 (2)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -49780,6 +50521,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1818457713
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -49830,6 +50572,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1818457714
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1818457709}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1823452614
 GameObject:
   m_ObjectHideFlags: 0
@@ -51828,7 +52591,8 @@ GameObject:
   - component: {fileID: 1926171529}
   - component: {fileID: 1926171528}
   - component: {fileID: 1926171527}
-  m_Layer: 0
+  - component: {fileID: 1926171530}
+  m_Layer: 9
   m_Name: jellyfish3 (14)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -51890,6 +52654,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1926171529
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -51940,6 +52705,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1926171530
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1926171525}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1938873630
 GameObject:
   m_ObjectHideFlags: 0
@@ -52715,6 +53501,7 @@ GameObject:
   - component: {fileID: 1957626467}
   - component: {fileID: 1957626466}
   - component: {fileID: 1957626468}
+  - component: {fileID: 1957626469}
   m_Layer: 0
   m_Name: gerebaldi (2)
   m_TagString: Enemy
@@ -52751,6 +53538,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 2
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &1957626467
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -52827,6 +53615,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.3333334, y: 1.0933334}
   m_EdgeRadius: 0
+--- !u!50 &1957626469
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1957626464}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &1961023682
 GameObject:
   m_ObjectHideFlags: 0
@@ -55099,7 +55908,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80de5ac4c46464e029b30d363f137c81, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  multiplier: 2
 --- !u!61 &2038082405
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -56423,7 +57231,8 @@ GameObject:
   - component: {fileID: 2097748665}
   - component: {fileID: 2097748664}
   - component: {fileID: 2097748663}
-  m_Layer: 0
+  - component: {fileID: 2097748666}
+  m_Layer: 9
   m_Name: jellyfish3 (4)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -56485,6 +57294,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &2097748665
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -56535,6 +57345,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &2097748666
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2097748661}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &2104284634
 GameObject:
   m_ObjectHideFlags: 0
@@ -56547,6 +57378,7 @@ GameObject:
   - component: {fileID: 2104284637}
   - component: {fileID: 2104284636}
   - component: {fileID: 2104284638}
+  - component: {fileID: 2104284639}
   m_Layer: 0
   m_Name: gerebaldi (2)
   m_TagString: Enemy
@@ -56583,6 +57415,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 2
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &2104284637
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -56659,6 +57492,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.3333334, y: 1.0933334}
   m_EdgeRadius: 0
+--- !u!50 &2104284639
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2104284634}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &2105443018
 GameObject:
   m_ObjectHideFlags: 0
@@ -57193,7 +58047,8 @@ GameObject:
   - component: {fileID: 2122812769}
   - component: {fileID: 2122812768}
   - component: {fileID: 2122812770}
-  m_Layer: 0
+  - component: {fileID: 2122812771}
+  m_Layer: 9
   m_Name: jellyfish3
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -57229,6 +58084,7 @@ MonoBehaviour:
   raycastLength: 0
   goonSpeed: 1
   hitObject: 0
+  rigid: {fileID: 0}
 --- !u!212 &2122812769
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -57305,6 +58161,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.9, y: 1.5}
   m_EdgeRadius: 0
+--- !u!50 &2122812771
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2122812766}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &2132052700
 GameObject:
   m_ObjectHideFlags: 0
