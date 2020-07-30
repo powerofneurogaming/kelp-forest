@@ -2,14 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour {
-
+public class PlayerController : MonoBehaviour 
+{
+    public static PlayerController instance;
     public float speed;
+    public BoxCollider2D bc2d;
     private Rigidbody2D rb2d;
 
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D> ();
+        instance = this;
     }
 
     void Update()
@@ -35,7 +38,6 @@ public class PlayerController : MonoBehaviour {
         }
 
         rb2d.AddForce (movement * speed);
-        
     }
 
     private void OnTriggerEnter2D(Collider2D other) 
@@ -44,5 +46,45 @@ public class PlayerController : MonoBehaviour {
         {
             Destroy(other.gameObject);
         }
+    }
+
+    public Transform JellyfishParent;
+    public Sprite Midshipman;
+    public Sprite Biolum;
+
+    IEnumerator powerup()
+    {
+        foreach (Transform child in JellyfishParent)
+        {
+            child.GetComponent<BoxCollider2D>().enabled=false;
+        }
+        ChangeSprite(2);
+        float counter = 5;
+        
+        while (counter > 0) 
+        {
+            counter -= Time.deltaTime;
+            yield return null;
+        }
+        foreach (Transform child in JellyfishParent)
+        {
+            child.GetComponent<BoxCollider2D>().enabled=true;
+        }
+        ChangeSprite(1);
+    }
+
+    public void ChangeSprite(int i)
+    {
+        if(i==1){
+            transform.GetComponent<SpriteRenderer>().sprite=Midshipman;
+        }
+        else{
+            transform.GetComponent<SpriteRenderer>().sprite=Biolum;
+        }
+    }
+    
+    public void PowerupFunction () 
+    {
+        StartCoroutine (powerup());
     }
 }
