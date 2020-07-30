@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 68b5a46c1736093459e0adf7a614cffd
+  - enabled: 1
+    path: Assets/Scenes/Kelp Forest.unity
+    guid: a5f0feebd58434aa492f30845d33c32a
   m_configObjects: {}
