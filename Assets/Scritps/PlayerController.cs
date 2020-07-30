@@ -56,7 +56,7 @@ public class PlayerController : MonoBehaviour
     {
         foreach (Transform child in JellyfishParent)
         {
-            child.GetComponent<BoxCollider2D>().enabled=false;
+            child.GetComponent<PolygonCollider2D>().enabled=false;
         }
         ChangeSprite(2);
         float counter = 5;
@@ -68,7 +68,7 @@ public class PlayerController : MonoBehaviour
         }
         foreach (Transform child in JellyfishParent)
         {
-            child.GetComponent<BoxCollider2D>().enabled=true;
+            child.GetComponent<PolygonCollider2D>().enabled=true;
         }
         ChangeSprite(1);
     }
