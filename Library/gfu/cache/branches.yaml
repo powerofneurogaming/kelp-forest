@@ -13,21 +13,29 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-07-29T15:18:57.000-07:00
-  initializedAtString: 2020-07-29T15:18:56.846-07:00
+  lastUpdatedAtString: 2020-07-31T11:56:58.455-07:00
+  initializedAtString: 2020-07-31T11:56:58.443-07:00
   localBranches:
   - name: JoshBranch
     tracking: 
   - name: attack
     tracking: origin/attack
+  - name: checkpoint1
+    tracking: 
   - name: master
     tracking: 
   remoteBranches:
-  - name: origin/UI
+  - name: origin/Kelplevel_menu
     tracking: '[None]'
   - name: origin/artadded
     tracking: '[None]'
+  - name: origin/attack
+    tracking: '[None]'
+  - name: origin/checkpoint1
+    tracking: '[None]'
   - name: origin/master
+    tracking: '[None]'
+  - name: origin/organized
     tracking: '[None]'
   remotes:
   - name: origin
@@ -41,6 +49,7 @@ MonoBehaviour:
     keys:
     - JoshBranch
     - attack
+    - checkpoint1
     - master
     values:
     - name: JoshBranch
@@ -53,6 +62,11 @@ MonoBehaviour:
         name: origin
         url: git@github.com:powerofneurogaming/kelp-forest.git
       trackingBranch: attack
+    - name: checkpoint1
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
     - name: master
       remote:
         name: 
@@ -63,12 +77,15 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
-      - UI
+      - Kelplevel_menu
       - artadded
+      - attack
+      - checkpoint1
       - master
+      - organized
     subKeyValues:
     - Values:
-      - name: UI
+      - name: Kelplevel_menu
         remote:
           name: origin
           url: git@github.com:powerofneurogaming/kelp-forest.git
@@ -78,7 +95,22 @@ MonoBehaviour:
           name: origin
           url: git@github.com:powerofneurogaming/kelp-forest.git
         trackingBranch: 
+      - name: attack
+        remote:
+          name: origin
+          url: git@github.com:powerofneurogaming/kelp-forest.git
+        trackingBranch: 
+      - name: checkpoint1
+        remote:
+          name: origin
+          url: git@github.com:powerofneurogaming/kelp-forest.git
+        trackingBranch: 
       - name: master
+        remote:
+          name: origin
+          url: git@github.com:powerofneurogaming/kelp-forest.git
+        trackingBranch: 
+      - name: organized
         remote:
           name: origin
           url: git@github.com:powerofneurogaming/kelp-forest.git

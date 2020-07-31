@@ -13,7 +13,8 @@ public class MidshipSound : MonoBehaviour
   }
 
   public void Update () {
-		
+		if (ScoreManager.instance.score >= 5)
+		{
 				if (Input.GetKeyDown(KeyCode.Space)) {
 						if(!someSound.isPlaying) {
 								someSound.Play();
@@ -29,6 +30,9 @@ public class MidshipSound : MonoBehaviour
 						GameObject shot = GameObject.Instantiate(projectile, transform.position, transform.rotation);
 						shot.GetComponent<Rigidbody2D>().AddForce(shot.GetComponent<Transform>().right * PlayerController.instance.transform.localScale.x * shootForce);
 						Physics2D.IgnoreCollision(shot.GetComponent<Collider2D>(), PlayerController.instance.GetComponent<Collider2D>());
+						ScoreManager.instance.score -= 5;
+						ScoreManager.instance.text.text = "x" + ScoreManager.instance.score;
 				}
 			}
+		}
   }
