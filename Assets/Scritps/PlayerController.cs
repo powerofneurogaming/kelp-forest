@@ -59,7 +59,7 @@ public class PlayerController : MonoBehaviour
             child.GetComponent<BoxCollider2D>().enabled=false;
         }
         ChangeSprite(2);
-        float counter = 5;
+        float counter = 15;
         
         while (counter > 0) 
         {
@@ -82,7 +82,7 @@ public class PlayerController : MonoBehaviour
             transform.GetComponent<SpriteRenderer>().sprite=Biolum;
         }
     }
-    
+
     public void PowerupFunction () 
     {
         StartCoroutine (powerup());
