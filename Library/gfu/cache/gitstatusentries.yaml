@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-07-31T11:56:50.250-07:00
+  initializedAtString: 2020-07-31T11:55:44.532-07:00
+  entries:
+  - path: Assets/Kelp Forest.unity
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Assets/Kelp Forest.unity
+    projectPath: Assets/Kelp Forest.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scritps/CrabMovement.cs
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Assets/Scritps/CrabMovement.cs
+    projectPath: Assets/Scritps/CrabMovement.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scritps/MidshipSound.cs
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Assets/Scritps/MidshipSound.cs
+    projectPath: Assets/Scritps/MidshipSound.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scritps/ScoreManager.cs
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Assets/Scritps/ScoreManager.cs
+    projectPath: Assets/Scritps/ScoreManager.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ArtifactDB
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Artifacts/11/11b3898812ef11155a540c64eec941f8
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/11/11b3898812ef11155a540c64eec941f8
+    projectPath: Library/Artifacts/11/11b3898812ef11155a540c64eec941f8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/fa/fa613b87082ec668486f0481b8820338
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/Artifacts/fa/fa613b87082ec668486f0481b8820338
+    projectPath: Library/Artifacts/fa/fa613b87082ec668486f0481b8820338
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/CurrentLayout-default.dwlt
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/CurrentLayout-default.dwlt
+    projectPath: Library/CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorInstance.json
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorSnapSettings.asset
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/EditorSnapSettings.asset
+    projectPath: Library/EditorSnapSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/Hierarchy/71b772-mainStage.json
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/StateCache/Hierarchy/71b772-mainStage.json
+    projectPath: Library/StateCache/Hierarchy/71b772-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/SceneView/889be4-mainStage.json
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Library/StateCache/SceneView/889be4-mainStage.json
+    projectPath: Library/StateCache/SceneView/889be4-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/josh/Desktop/Projects/kelp-forest/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3

@@ -3,9 +3,7 @@ using System.Collections;
 
 public class CrabMovement : MonoBehaviour {
     public float goonSpeed;
-
     public bool hitObject = true;
-    
     public int coinValue = 2;
 
     public void OnTriggerEnter2D(Collider2D other)
