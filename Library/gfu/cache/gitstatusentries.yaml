@@ -13,30 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-08-02T16:13:28.320-07:00
-  initializedAtString: 2020-08-02T16:00:11.998-07:00
+  lastUpdatedAtString: 2020-08-02T16:15:18.023-07:00
+  initializedAtString: 2020-08-02T16:14:47.091-07:00
   entries:
   - path: .gitignore
     fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\.gitignore
     projectPath: .gitignore
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Objects\garibaldis_in_kelp_forest_by_k4orta-d5dx11y.jpg
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Objects\garibaldis_in_kelp_forest_by_k4orta-d5dx11y.jpg
-    projectPath: Assets\Objects\garibaldis_in_kelp_forest_by_k4orta-d5dx11y.jpg
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Objects\garibaldis_in_kelp_forest_by_k4orta-d5dx11y.jpg.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Objects\garibaldis_in_kelp_forest_by_k4orta-d5dx11y.jpg.meta
-    projectPath: Assets\Objects\garibaldis_in_kelp_forest_by_k4orta-d5dx11y.jpg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Menu.unity
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Scenes\Menu.unity
-    projectPath: Assets\Scenes\Menu.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -73,18 +55,6 @@ MonoBehaviour:
   - path: Library\SourceAssetDB
     fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\71b772-mainStage.json
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\StateCache\Hierarchy\71b772-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\71b772-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\889be4-mainStage.json
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\StateCache\SceneView\889be4-mainStage.json
-    projectPath: Library\StateCache\SceneView\889be4-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
