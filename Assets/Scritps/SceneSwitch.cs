@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class SceneSwitch : MonoBehaviour
 {
-    [SerializeField] private string newLevel;
 
     // Start is called before the first frame update
     void Start()

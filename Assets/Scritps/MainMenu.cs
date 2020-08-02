@@ -22,6 +22,11 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);     //This transitions to next scene.
     }
 
+    public void InformationGame()
+    {
+        SceneManager.LoadScene("scene_Information Scene");
+    }
+
     public void QuitGame ()
     {
         Debug.Log("QUIT!");
