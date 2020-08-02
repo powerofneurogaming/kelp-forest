@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-08-02T16:15:18.023-07:00
+  lastUpdatedAtString: 2020-08-02T16:15:49.148-07:00
   initializedAtString: 2020-08-02T16:14:47.091-07:00
   entries:
   - path: .gitignore
@@ -22,15 +22,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ArtifactDB
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\ArtifactDB
-    projectPath: Library\ArtifactDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -43,12 +37,6 @@ MonoBehaviour:
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

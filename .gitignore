@@ -170,3 +170,4 @@ Library/gfu/cache/gitstatusentries.yaml
 Library/gfu/cache/gittrackingstatus.yaml
 Library/gfu/cache/repoinfo.yaml
 Library/SourceAssetDB
+*.yaml
