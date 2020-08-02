@@ -13,151 +13,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-08-02T15:10:54.183-07:00
-  initializedAtString: 2020-08-02T12:15:51.870-07:00
+  lastUpdatedAtString: 2020-08-02T15:58:32.277-07:00
+  initializedAtString: 2020-08-02T15:57:49.089-07:00
   entries:
-  - path: Assets\Objects\Kelp Forest End.png
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Objects\Kelp
-      Forest End.png
-    projectPath: Assets\Objects\Kelp Forest End.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Objects\Kelp Forest End.png.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Objects\Kelp
-      Forest End.png.meta
-    projectPath: Assets\Objects\Kelp Forest End.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Objects\Kelp Forest Start.png
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Objects\Kelp
-      Forest Start.png
-    projectPath: Assets\Objects\Kelp Forest Start.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Objects\Kelp Forest Start.png.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Objects\Kelp
-      Forest Start.png.meta
-    projectPath: Assets\Objects\Kelp Forest Start.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Objects\kelpforest.png
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Objects\kelpforest.png
-    projectPath: Assets\Objects\kelpforest.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Objects\kelpforest.png.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Objects\kelpforest.png.meta
-    projectPath: Assets\Objects\kelpforest.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Objects\kelpforest2.png
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Objects\kelpforest2.png
-    projectPath: Assets\Objects\kelpforest2.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Objects\kelpforest2.png.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Objects\kelpforest2.png.meta
-    projectPath: Assets\Objects\kelpforest2.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Objects\kelpforest3.png
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Objects\kelpforest3.png
-    projectPath: Assets\Objects\kelpforest3.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Objects\kelpforest3.png.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Objects\kelpforest3.png.meta
-    projectPath: Assets\Objects\kelpforest3.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Objects\kelpforest4.png
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Objects\kelpforest4.png
-    projectPath: Assets\Objects\kelpforest4.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Objects\kelpforest4.png.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Objects\kelpforest4.png.meta
-    projectPath: Assets\Objects\kelpforest4.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Objects\kelpforest5.png
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Objects\kelpforest5.png
-    projectPath: Assets\Objects\kelpforest5.png
+  - path: Assets\Objects\Garabaldi.png.meta
+    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Objects\Garabaldi.png.meta
+    projectPath: Assets\Objects\Garabaldi.png.meta
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Objects\kelpforest6.png
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Objects\kelpforest6.png
-    projectPath: Assets\Objects\kelpforest6.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Objects\kelpforest6.png.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Objects\kelpforest6.png.meta
-    projectPath: Assets\Objects\kelpforest6.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Deep Sea.unity
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Scenes\Deep
-      Sea.unity
-    projectPath: Assets\Scenes\Deep Sea.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scenes\Kelp forest level.unity
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Scenes\Kelp
-      forest level.unity
-    projectPath: Assets\Scenes\Kelp forest level.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scenes\Seagrass Bed.unity
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Scenes\Seagrass
-      Bed.unity
-    projectPath: Assets\Scenes\Seagrass Bed.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Sound\kelpforesttwo520674__shortrecord__relaxation-music-2.mp3
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Sound\kelpforesttwo520674__shortrecord__relaxation-music-2.mp3
-    projectPath: Assets\Sound\kelpforesttwo520674__shortrecord__relaxation-music-2.mp3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Sound\kelpforesttwo520674__shortrecord__relaxation-music-2.mp3.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Sound\kelpforesttwo520674__shortrecord__relaxation-music-2.mp3.meta
-    projectPath: Assets\Sound\kelpforesttwo520674__shortrecord__relaxation-music-2.mp3.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    workTreeStatus: 5
   - path: Library\ArtifactDB
     fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\EditorSnapSettings.asset
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\EditorSnapSettings.asset
-    projectPath: Library\EditorSnapSettings.asset
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorSnapSettings.asset
+    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\EditorSnapSettings.asset
+    projectPath: Library\EditorSnapSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
