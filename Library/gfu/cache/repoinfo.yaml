@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-07-31T11:56:49.943-07:00
-  initializedAtString: 2020-07-31T11:55:44.381-07:00
+  lastUpdatedAtString: 2020-08-01T16:50:31.815-07:00
+  initializedAtString: 2020-08-01T16:50:31.815-07:00
   currentGitRemote:
     name: origin
-    url: git@github.com:powerofneurogaming/kelp-forest.git
+    url: https://github.com/powerofneurogaming/kelp-forest.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: attack
-    tracking: origin/attack
+    name: checkpoint1
+    tracking: origin/checkpoint1
   currentConfigBranch:
-    name: attack
+    name: checkpoint1
     remote:
       name: origin
-      url: git@github.com:powerofneurogaming/kelp-forest.git
-    trackingBranch: attack
+      url: https://github.com/powerofneurogaming/kelp-forest.git
+    trackingBranch: checkpoint1
   currentConfigRemote:
     name: origin
-    url: git@github.com:powerofneurogaming/kelp-forest.git
+    url: https://github.com/powerofneurogaming/kelp-forest.git
   currentHead: 
