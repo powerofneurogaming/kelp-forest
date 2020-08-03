@@ -321,13 +321,13 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 407461974}
-    characterCount: 0
+    characterCount: 4
     spriteCount: 0
     spaceCount: 0
-    wordCount: 0
+    wordCount: 1
     linkCount: 0
-    lineCount: 0
-    pageCount: 0
+    lineCount: 1
+    pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
@@ -385,10 +385,10 @@ RectTransform:
   m_Father: {fileID: 34172230}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 152.94}
-  m_SizeDelta: {x: -544.1532, y: -505.88}
+  m_SizeDelta: {x: 404.05334, y: -57.880005}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &412315765
 MonoBehaviour:
@@ -438,8 +438,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 84
-  m_fontSizeBase: 84
+  m_fontSize: 70
+  m_fontSizeBase: 70
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -999,7 +999,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 6.5, y: -199.9}
+  m_AnchoredPosition: {x: 0, y: -199.9}
   m_SizeDelta: {x: 503.9098, y: 253.83551}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &730865247
@@ -1096,13 +1096,13 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 730865247}
-    characterCount: 0
+    characterCount: 69
     spriteCount: 0
-    spaceCount: 0
-    wordCount: 0
+    spaceCount: 10
+    wordCount: 11
     linkCount: 0
-    lineCount: 0
-    pageCount: 0
+    lineCount: 3
+    pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
@@ -1160,10 +1160,10 @@ RectTransform:
   m_Father: {fileID: 152240664}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 152.94}
-  m_SizeDelta: {x: -544.1532, y: -505.88}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 32.5, y: 152.94}
+  m_SizeDelta: {x: 392.76355, y: -57.880005}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &790259514
 MonoBehaviour:
@@ -1213,8 +1213,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 84
-  m_fontSizeBase: 84
+  m_fontSize: 70
+  m_fontSizeBase: 70
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1254,13 +1254,13 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 790259514}
-    characterCount: 0
+    characterCount: 11
     spriteCount: 0
     spaceCount: 0
-    wordCount: 0
+    wordCount: 1
     linkCount: 0
-    lineCount: 0
-    pageCount: 0
+    lineCount: 1
+    pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
@@ -2044,7 +2044,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 6.5, y: -199.9}
+  m_AnchoredPosition: {x: 0, y: -199.9}
   m_SizeDelta: {x: 503.9098, y: 253.83551}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1351632795
@@ -2141,10 +2141,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1351632795}
-    characterCount: 53
+    characterCount: 69
     spriteCount: 0
-    spaceCount: 9
-    wordCount: 10
+    spaceCount: 10
+    wordCount: 11
     linkCount: 0
     lineCount: 3
     pageCount: 1
@@ -2439,8 +2439,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 21.645, y: 150}
-  m_SizeDelta: {x: 980.7095, y: 114.96741}
+  m_AnchoredPosition: {x: 0, y: 167.9}
+  m_SizeDelta: {x: 729.5066, y: 79.08127}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1570646842
 MonoBehaviour:
@@ -2490,8 +2490,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 80
-  m_fontSizeBase: 80
+  m_fontSize: 60
+  m_fontSizeBase: 60
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3095,7 +3095,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 1666c294d622ea74db0640406dd56ad2, type: 3}
+  m_audioClip: {fileID: 8300000, guid: eb1a8f578e2331d48b4be6304c8183ac, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.5
   m_Pitch: 1
