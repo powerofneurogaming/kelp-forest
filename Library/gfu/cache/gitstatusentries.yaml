@@ -13,606 +13,79 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-08-01T17:52:09.227-07:00
-  initializedAtString: 2020-08-01T16:50:32.825-07:00
+  lastUpdatedAtString: 2020-08-02T16:31:14.997-07:00
+  initializedAtString: 2020-08-02T16:27:37.087-07:00
   entries:
-  - path: Assets\Deep Sea.unity
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Deep Sea.unity
-    projectPath: Assets\Deep Sea.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Deep Sea.unity.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Deep Sea.unity.meta
-    projectPath: Assets\Deep Sea.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\deep_sea.png
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\deep_sea.png
-    projectPath: Assets\deep_sea.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\deep_sea.png.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\deep_sea.png.meta
-    projectPath: Assets\deep_sea.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Kelp Forest.unity.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Kelp Forest.unity.meta
-    projectPath: Assets\Kelp Forest.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Objects\deep_sea.png
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Objects\deep_sea.png
-    projectPath: Assets\Objects\deep_sea.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Objects\deep_sea.png.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Objects\deep_sea.png.meta
-    projectPath: Assets\Objects\deep_sea.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Objects\Garabaldi.png.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Objects\Garabaldi.png.meta
-    projectPath: Assets\Objects\Garabaldi.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Objects\lizardfish 1.png
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Objects\lizardfish
-      1.png
-    projectPath: Assets\Objects\lizardfish 1.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Objects\lizardfish 1.png.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Objects\lizardfish
-      1.png.meta
-    projectPath: Assets\Objects\lizardfish 1.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Objects\Rock 1.png.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Objects\Rock 1.png.meta
-    projectPath: Assets\Objects\Rock 1.png.meta
+  - path: Assets\Scenes\Kelp forest level.unity
+    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Assets\Scenes\Kelp
+      forest level.unity
+    projectPath: Assets\Scenes\Kelp forest level.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Objects\Rock 5.png.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Objects\Rock 5.png.meta
-    projectPath: Assets\Objects\Rock 5.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Objects\Rock 8.png.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Objects\Rock 8.png.meta
-    projectPath: Assets\Objects\Rock 8.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Objects\Rock 9.png.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Objects\Rock 9.png.meta
-    projectPath: Assets\Objects\Rock 9.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Objects\sardine.png.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Objects\sardine.png.meta
-    projectPath: Assets\Objects\sardine.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Objects\smallfish.png
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Objects\smallfish.png
-    projectPath: Assets\Objects\smallfish.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Objects\smallfish.png.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Objects\smallfish.png.meta
-    projectPath: Assets\Objects\smallfish.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Objects\smallfish2.png
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Objects\smallfish2.png
-    projectPath: Assets\Objects\smallfish2.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Objects\smallfish2.png.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Objects\smallfish2.png.meta
-    projectPath: Assets\Objects\smallfish2.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Objects\smallfish3.png
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Objects\smallfish3.png
-    projectPath: Assets\Objects\smallfish3.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Objects\smallfish3.png.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Objects\smallfish3.png.meta
-    projectPath: Assets\Objects\smallfish3.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scenes\Deep Sea.unity
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scenes\Deep Sea.unity
-    projectPath: Assets\Scenes\Deep Sea.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Deep Sea.unity.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scenes\Deep Sea.unity.meta
-    projectPath: Assets\Scenes\Deep Sea.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Menu.unity
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scenes\Menu.unity
-    projectPath: Assets\Scenes\Menu.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scenes\Seagrass Bed.unity
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scenes\Seagrass
-      Bed.unity
-    projectPath: Assets\Scenes\Seagrass Bed.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Seagrass Bed.unity.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scenes\Seagrass
-      Bed.unity.meta
-    projectPath: Assets\Scenes\Seagrass Bed.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts.meta
-    projectPath: Assets\Scripts.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\AudioPlayerManager.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\AudioPlayerManager.cs
-    projectPath: Assets\Scripts\AudioPlayerManager.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\AudioPlayerManager.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\AudioPlayerManager.cs.meta
-    projectPath: Assets\Scripts\AudioPlayerManager.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\CameraFollow.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\CameraFollow.cs
-    projectPath: Assets\Scripts\CameraFollow.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\CameraFollow.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\CameraFollow.cs.meta
-    projectPath: Assets\Scripts\CameraFollow.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\CameraShaker.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\CameraShaker.cs
-    projectPath: Assets\Scripts\CameraShaker.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\CameraShaker.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\CameraShaker.cs.meta
-    projectPath: Assets\Scripts\CameraShaker.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\CrabMovement.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\CrabMovement.cs
-    projectPath: Assets\Scripts\CrabMovement.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\CrabMovement.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\CrabMovement.cs.meta
-    projectPath: Assets\Scripts\CrabMovement.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\GoonMovement.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\GoonMovement.cs
-    projectPath: Assets\Scripts\GoonMovement.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\GoonMovement.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\GoonMovement.cs.meta
-    projectPath: Assets\Scripts\GoonMovement.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\IUpdatable.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\IUpdatable.cs
-    projectPath: Assets\Scripts\IUpdatable.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\IUpdatable.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\IUpdatable.cs.meta
-    projectPath: Assets\Scripts\IUpdatable.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\MainMenu.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\MainMenu.cs
-    projectPath: Assets\Scripts\MainMenu.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\MainMenu.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\MainMenu.cs.meta
-    projectPath: Assets\Scripts\MainMenu.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\MidshipSound.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\MidshipSound.cs
-    projectPath: Assets\Scripts\MidshipSound.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\MidshipSound.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\MidshipSound.cs.meta
-    projectPath: Assets\Scripts\MidshipSound.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\PlayerController.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\PlayerController.cs
-    projectPath: Assets\Scripts\PlayerController.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\PlayerController.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\PlayerController.cs.meta
-    projectPath: Assets\Scripts\PlayerController.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\PowerUp.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\PowerUp.cs
-    projectPath: Assets\Scripts\PowerUp.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\PowerUp.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\PowerUp.cs.meta
-    projectPath: Assets\Scripts\PowerUp.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\ScoreManager.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\ScoreManager.cs
-    projectPath: Assets\Scripts\ScoreManager.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\ScoreManager.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scripts\ScoreManager.cs.meta
-    projectPath: Assets\Scripts\ScoreManager.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scritps.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps.meta
-    projectPath: Assets\Scritps.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\AudioPlayerManager.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\AudioPlayerManager.cs
-    projectPath: Assets\Scritps\AudioPlayerManager.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\AudioPlayerManager.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\AudioPlayerManager.cs.meta
-    projectPath: Assets\Scritps\AudioPlayerManager.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\CameraFollow.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\CameraFollow.cs
-    projectPath: Assets\Scritps\CameraFollow.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\CameraFollow.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\CameraFollow.cs.meta
-    projectPath: Assets\Scritps\CameraFollow.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\CameraShaker.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\CameraShaker.cs
-    projectPath: Assets\Scritps\CameraShaker.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\CameraShaker.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\CameraShaker.cs.meta
-    projectPath: Assets\Scritps\CameraShaker.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\CrabMovement.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\CrabMovement.cs
-    projectPath: Assets\Scritps\CrabMovement.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\CrabMovement.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\CrabMovement.cs.meta
-    projectPath: Assets\Scritps\CrabMovement.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\GoonMovement.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\GoonMovement.cs
-    projectPath: Assets\Scritps\GoonMovement.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\GoonMovement.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\GoonMovement.cs.meta
-    projectPath: Assets\Scritps\GoonMovement.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\IUpdatable.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\IUpdatable.cs
-    projectPath: Assets\Scritps\IUpdatable.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\IUpdatable.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\IUpdatable.cs.meta
-    projectPath: Assets\Scritps\IUpdatable.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\MainMenu.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\MainMenu.cs
-    projectPath: Assets\Scritps\MainMenu.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\MainMenu.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\MainMenu.cs.meta
-    projectPath: Assets\Scritps\MainMenu.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\MidshipSound.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\MidshipSound.cs
-    projectPath: Assets\Scritps\MidshipSound.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\MidshipSound.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\MidshipSound.cs.meta
-    projectPath: Assets\Scritps\MidshipSound.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\PlayerController.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\PlayerController.cs
-    projectPath: Assets\Scritps\PlayerController.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\PlayerController.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\PlayerController.cs.meta
-    projectPath: Assets\Scritps\PlayerController.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\PowerUp.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\PowerUp.cs
-    projectPath: Assets\Scritps\PowerUp.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\PowerUp.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\PowerUp.cs.meta
-    projectPath: Assets\Scritps\PowerUp.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\ScoreManager.cs
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\ScoreManager.cs
-    projectPath: Assets\Scritps\ScoreManager.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scritps\ScoreManager.cs.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Scritps\ScoreManager.cs.meta
-    projectPath: Assets\Scritps\ScoreManager.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Seagrass Bed.unity
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Seagrass Bed.unity
-    projectPath: Assets\Seagrass Bed.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Seagrass Bed.unity.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Seagrass Bed.unity.meta
-    projectPath: Assets\Seagrass Bed.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Sound\mudflat241441__foolboymedia__ocean-drift.wav
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Sound\mudflat241441__foolboymedia__ocean-drift.wav
-    projectPath: Assets\Sound\mudflat241441__foolboymedia__ocean-drift.wav
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Sound\mudflat241441__foolboymedia__ocean-drift.wav.meta
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\Sound\mudflat241441__foolboymedia__ocean-drift.wav.meta
-    projectPath: Assets\Sound\mudflat241441__foolboymedia__ocean-drift.wav.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
-      SDF.asset
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\TextMesh Pro\Examples
-      & Extras\Resources\Fonts & Materials\Anton SDF.asset
-    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Anton
-      SDF.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
-      SDF.asset
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\TextMesh Pro\Examples
-      & Extras\Resources\Fonts & Materials\Bangers SDF.asset
-    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Bangers
-      SDF.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
-      Bold SDF.asset
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\TextMesh Pro\Examples
-      & Extras\Resources\Fonts & Materials\Oswald Bold SDF.asset
-    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Oswald
-      Bold SDF.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
-      SDF.asset
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\TextMesh Pro\Examples
-      & Extras\Resources\Fonts & Materials\Roboto-Bold SDF.asset
-    projectPath: Assets\TextMesh Pro\Examples & Extras\Resources\Fonts & Materials\Roboto-Bold
-      SDF.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Assets\TextMesh Pro\Resources\Fonts
-      & Materials\LiberationSans SDF - Fallback.asset
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Fallback.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Kelp Forest.exe
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Kelp Forest.exe
-    projectPath: Kelp Forest.exe
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Library\ArtifactDB
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Library\ArtifactDB
+    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\EditorInstance.json
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\EditorSnapSettings.asset
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Library\EditorSnapSettings.asset
+    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\EditorSnapSettings.asset
     projectPath: Library\EditorSnapSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SourceAssetDB
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Library\SourceAssetDB
+    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\StateCache\Hierarchy\71b772-mainStage.json
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Library\StateCache\Hierarchy\71b772-mainStage.json
+    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\StateCache\Hierarchy\71b772-mainStage.json
     projectPath: Library\StateCache\Hierarchy\71b772-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\StateCache\SceneView\889be4-mainStage.json
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Library\StateCache\SceneView\889be4-mainStage.json
+    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\kelp-forest\Library\StateCache\SceneView\889be4-mainStage.json
     projectPath: Library\StateCache\SceneView\889be4-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: UnityCrashHandler32.exe
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\UnityCrashHandler32.exe
-    projectPath: UnityCrashHandler32.exe
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: UnityPlayer.dll
-    fullPath: C:\Users\radla\Desktop\New folder\kelp-forest\UnityPlayer.dll
-    projectPath: UnityPlayer.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5

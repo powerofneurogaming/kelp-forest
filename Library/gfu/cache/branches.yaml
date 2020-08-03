@@ -13,33 +13,27 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-07-31T11:56:58.455-07:00
-  initializedAtString: 2020-07-31T11:56:58.443-07:00
+  lastUpdatedAtString: 2020-08-02T16:15:31.745-07:00
+  initializedAtString: 2020-08-02T16:15:31.633-07:00
   localBranches:
-  - name: JoshBranch
-    tracking: 
-  - name: attack
-    tracking: origin/attack
   - name: checkpoint1
-    tracking: 
+    tracking: origin/checkpoint1
+  - name: Kelplevel_menu
+    tracking: origin/Kelplevel_menu
   - name: master
+    tracking: origin/master
+  - name: menu-to-checkpoint1
     tracking: 
   remoteBranches:
-  - name: origin/Kelplevel_menu
-    tracking: '[None]'
-  - name: origin/artadded
-    tracking: '[None]'
-  - name: origin/attack
-    tracking: '[None]'
   - name: origin/checkpoint1
     tracking: '[None]'
-  - name: origin/master
+  - name: origin/HEAD
     tracking: '[None]'
-  - name: origin/organized
+  - name: origin/Kelplevel_menu
     tracking: '[None]'
   remotes:
   - name: origin
-    url: git@github.com:powerofneurogaming/kelp-forest.git
+    url: https://github.com/powerofneurogaming/kelp-forest.git
     login: 
     user: 
     host: 
@@ -47,27 +41,27 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - JoshBranch
-    - attack
     - checkpoint1
+    - Kelplevel_menu
     - master
+    - menu-to-checkpoint1
     values:
-    - name: JoshBranch
-      remote:
-        name: 
-        url: 
-      trackingBranch: 
-    - name: attack
-      remote:
-        name: origin
-        url: git@github.com:powerofneurogaming/kelp-forest.git
-      trackingBranch: attack
     - name: checkpoint1
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/powerofneurogaming/kelp-forest.git
+      trackingBranch: checkpoint1
+    - name: Kelplevel_menu
+      remote:
+        name: origin
+        url: https://github.com/powerofneurogaming/kelp-forest.git
+      trackingBranch: Kelplevel_menu
     - name: master
+      remote:
+        name: origin
+        url: https://github.com/powerofneurogaming/kelp-forest.git
+      trackingBranch: master
+    - name: menu-to-checkpoint1
       remote:
         name: 
         url: 
@@ -77,47 +71,29 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
-      - Kelplevel_menu
-      - artadded
-      - attack
       - checkpoint1
-      - master
-      - organized
+      - HEAD
+      - Kelplevel_menu
     subKeyValues:
     - Values:
-      - name: Kelplevel_menu
-        remote:
-          name: origin
-          url: git@github.com:powerofneurogaming/kelp-forest.git
-        trackingBranch: 
-      - name: artadded
-        remote:
-          name: origin
-          url: git@github.com:powerofneurogaming/kelp-forest.git
-        trackingBranch: 
-      - name: attack
-        remote:
-          name: origin
-          url: git@github.com:powerofneurogaming/kelp-forest.git
-        trackingBranch: 
       - name: checkpoint1
         remote:
           name: origin
-          url: git@github.com:powerofneurogaming/kelp-forest.git
+          url: https://github.com/powerofneurogaming/kelp-forest.git
         trackingBranch: 
-      - name: master
+      - name: HEAD
         remote:
           name: origin
-          url: git@github.com:powerofneurogaming/kelp-forest.git
+          url: https://github.com/powerofneurogaming/kelp-forest.git
         trackingBranch: 
-      - name: organized
+      - name: Kelplevel_menu
         remote:
           name: origin
-          url: git@github.com:powerofneurogaming/kelp-forest.git
+          url: https://github.com/powerofneurogaming/kelp-forest.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: git@github.com:powerofneurogaming/kelp-forest.git
+      url: https://github.com/powerofneurogaming/kelp-forest.git
