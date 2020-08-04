@@ -42,11 +42,14 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Default
-    uniqueID: 0
-    locked: 0
   - name: Background
     uniqueID: 1615364675
+    locked: 0
+  - name: Enemies
+    uniqueID: 176468585
+    locked: 0
+  - name: Default
+    uniqueID: 0
     locked: 0
   - name: Base
     uniqueID: 1097815003

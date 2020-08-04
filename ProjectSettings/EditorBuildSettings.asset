@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 67f79de7bef41974cb210f416ac61cdf
+  - enabled: 1
+    path: Assets/Scenes/Deep Sea.unity
+    guid: 4c0c5aceac71411498f7e28055cb282b
+  - enabled: 1
+    path: Assets/Scenes/Seagrass Bed.unity
+    guid: a5f0feebd58434aa492f30845d33c32a
+  - enabled: 1
+    path: Assets/Scenes/Kelp forest level.unity
+    guid: 0c8cd2cccd11a7e48b4812202d32246f
+  - enabled: 1
+    path: Assets/Scenes/Information Scene.unity
+    guid: 1a48fb51b0914c54b9ea3077d2fab225
   m_configObjects: {}

@@ -16,6 +16,15 @@ public class MainMenu : MonoBehaviour
     {
         
     }
+    public void Information()
+    {
+        SceneManager.LoadScene("Information Scene");    //Clicking Information button moves to Info scene
+    }
+
+    public void Menu()
+    {
+        SceneManager.LoadScene("Menu");    //Clicking Main Menu button moves to menu scene
+    }
 
     public void PlayGame()
     {
